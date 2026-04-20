@@ -7,8 +7,7 @@
 # Firmware development
 
 * [Hello, firmware world](./firmware/index.md)
-  - [What is main()?](./firmware/main.md)
-  - [What is a peripheral?]()
+  - [Wait, what is firmware?](./firmware/what-is-firmware.md)
   - [Blinky!]()
   - [Simulating hardware](./firmware/simulating-hardware.md)
   - [Connecting to real hardware](./firmware/real-hardware.md)
