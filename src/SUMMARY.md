@@ -1,16 +1,17 @@
 # COMP 4109 Challenges
 
 [Introduction](./index.md)
-[Development environment](./getting-started/dev-environment.md)
+[Why RISC-V?](./why-riscv.md)
+[Development environment](./dev-environment.md)
 
 # Firmware development
 
-* [Hello, firmware world]()
-  - [What is main()?]()
+* [Hello, firmware world](./firmware/index.md)
+  - [What is main()?](./firmware/main.md)
   - [What is a peripheral?]()
   - [Blinky!]()
-  - [Simulating hardware](./getting-started/simulating-hardware.md)
-  - [Connecting to real hardware](./getting-started/real-hardware.md)
+  - [Simulating hardware](./firmware/simulating-hardware.md)
+  - [Connecting to real hardware](./firmware/real-hardware.md)
   - [Challenge]()
 * [Communicating with the world]()
   - [UART]()
