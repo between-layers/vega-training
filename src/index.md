@@ -30,7 +30,7 @@ In addition to the above, we'll be giving away up to **15** VEGAboards for **fre
 Make sure to attend!
 
 <center>
-    <img src="img/vegaboard.webp" title="Original source: https://renode.readthedocs.io/en/latest/_images/vegaboard.png" alt="OpenISA Vegaboard" width="40%" >
+    <img src="/img/vegaboard.webp" title="Original source: https://renode.readthedocs.io/en/latest/_images/vegaboard.png" alt="OpenISA Vegaboard" width="40%" >
 </center>
 
 ## Training schedule and agenda

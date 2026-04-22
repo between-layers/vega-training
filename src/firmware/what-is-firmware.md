@@ -3,7 +3,7 @@
 *Firmware* is the software that runs directly on a microcontroller.
 
 > [!NOTE]
-> **Wait, what is a microcontroller?**
+> **Wait, what is a *microcontroller*?**
 >
 > A *microcontroller* unit (MCU) is a whole tiny computer packed onto a single chip: a CPU, a small amount of memory (both flash for code and RAM for data), and a fixed set of peripherals, all sharing the same piece of silicon. The VEGAboard's main chip, the RV32M1, is one example.
 >

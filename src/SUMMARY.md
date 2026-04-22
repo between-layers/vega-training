@@ -8,10 +8,10 @@
 
 * [Hello, firmware world](./firmware/index.md)
   - [Wait, what is firmware?](./firmware/what-is-firmware.md)
-  - [Blinky!]()
-  - [Simulating hardware](./firmware/simulating-hardware.md)
+  - [Blinky!](./firmware/blinky.md)
   - [Connecting to real hardware](./firmware/real-hardware.md)
-  - [Challenge]()
+  - [Simulating hardware](./firmware/simulating-hardware.md)
+  - [Challenge](./firmware/challenge.md)
 * [Communicating with the world]()
   - [UART]()
   - [I2C]()
