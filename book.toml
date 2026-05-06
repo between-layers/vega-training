@@ -2,8 +2,8 @@
 authors = ["Yusef Karim"]
 language = "en"
 src = "src"
-title = "Ottawa RISC-V"
-description = "Ottawa RISC-V embedded systems training (VEGA edition)"
+title = "RISC-V Ottawa"
+description = "RISC-V Ottawa embedded systems training (VEGA edition)"
 
 [rust]
 edition = "2024"
@@ -12,6 +12,7 @@ edition = "2024"
 default-theme = "Ayu"
 preferred-dark-theme = "Ayu"
 mathjax-support = true
+git-repository-url = "https://github.com/riscv-ottawa/vega-training"
 # no-section-label = true
 
 [build]
