@@ -12,6 +12,7 @@ edition = "2024"
 default-theme = "Ayu"
 preferred-dark-theme = "Ayu"
 mathjax-support = true
+git-repository-url = "https://github.com/riscv-ottawa/vega-training"
 # no-section-label = true
 
 [build]
