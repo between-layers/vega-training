@@ -8,7 +8,10 @@
 
 ## Overview
 
-TBD
+This training is a hands-on introduction to embedded systems development on RISC-V, built around the OpenISA VEGAboard.
+Across the sessions, you'll set up a modern containerized toolchain, write and debug firmware for a real RISC-V microcontroller, simulate the same hardware purely in software using Renode, and finally learn how to run applications on top of the Zephyr RTOS.
+
+No prior embedded or RISC-V experience is assumed, though comfort with C and the command line will help.
 
 ## What will you learn?
 

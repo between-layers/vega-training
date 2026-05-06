@@ -2,8 +2,8 @@
 authors = ["Yusef Karim"]
 language = "en"
 src = "src"
-title = "Ottawa RISC-V"
-description = "Ottawa RISC-V embedded systems training (VEGA edition)"
+title = "RISC-V Ottawa"
+description = "RISC-V Ottawa embedded systems training (VEGA edition)"
 
 [rust]
 edition = "2024"
